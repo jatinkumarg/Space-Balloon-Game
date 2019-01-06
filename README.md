@@ -1,2 +1,2 @@
 # Space-Balloon-Game
-A game made with NodeJS, Advanced JavaScript, Jquery, HTML and CSS
+A Space balloon shooting game made with NodeJS, Advanced JavaScript, Jquery, HTML Canvas, and CSS.
